@@ -1,3 +1,4 @@
 env_make
 .gd
 secrets
+bin/oc
